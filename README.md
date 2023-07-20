@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NF-7
 
-- 🌱 I’m currently learning WebDevelopment (JavaScript, CSS, HTML and Bootstrap). 
+- 🌱 I’m currently learning WebDevelopment.
 
 <!---
 NF-7/NF-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
