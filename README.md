@@ -49,15 +49,18 @@ You can click the Preview link to take a look at your changes.
 
 <div id="badges" align="center">
   <h2>Contact</h2>
-  <a href="https://si.linkedin.com/in/nejcfurh">
-    <img style="height: 40px; width: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/nejcfurh">
-    <img style="height: 40px; width: 40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" alt="X Badge"/>
-  </a>
-  <a href="https://www.facebook.com/nejcfurh/">
-    <img style="height: 40px; width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook Badge"/>
-  </a>
+  <span>
+    <a href="https://si.linkedin.com/in/nejcfurh">
+      <img style="height: 60px; width: 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Badge"/>
+    </a> &nbsp;&nbsp;
+    <a href="https://twitter.com/nejcfurh">
+      <img style="height: 60px; width: 60px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" alt="X Badge"/>
+    </a> &nbsp;&nbsp;
+    <a href="https://www.facebook.com/nejcfurh/">
+      <img style="height: 60px; width: 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook Badge"/>
+    </a>
+  </span>
+  
 </div>
 
 
