@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center" id="stats">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[NF-7]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=[nejcfurh]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NF-7&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejcfurh&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 <br>
 
