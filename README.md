@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center" id="bio">
   <h2>About Me</h2>
   <ul>
-    <p>💻 - I'm a Junior Product Engineer @BirdBuddy and interested in Front-End development!</p>
+    <p>💻 - I'm a Product Engineer @BirdBuddy and interested in Front-End development!</p>
     <p>⚽ - I'm passionate about anything "tech" and football.</p>
     <p>👨‍💻 - I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
     <p>🟢 - I'm currently not seeking new opportunities to apply my knowledge and expertise when it comes to WebDevelopment</p>
