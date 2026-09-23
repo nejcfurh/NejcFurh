@@ -2,7 +2,7 @@
                                                                                                                                                
   # Hey, I'm Nejc 👋
                                                                                                                                                
-  **Product Engineer @ [Bird Buddy](https://mybirdbuddy.com)**
+  **Product Engineer @ [Birdbuddy](https://mybirdbuddy.com)**
                                                                                                                                                
   Building full-stack web and mobile experiences with modern TypeScript tooling.
 
@@ -14,7 +14,7 @@
 
   ### About Me
 
-  - 🛠️  Product Engineer building cross-platform apps (web + mobile) at Bird Buddy
+  - 🛠️  Product Engineer building cross-platform apps (web + mobile) at Birdbuddy
   - 🌍 Based in Slovenia
   - ⚽ Passionate about tech and football
   - 🌱 Always exploring new tools and frameworks
